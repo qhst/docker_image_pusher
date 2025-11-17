@@ -13,3 +13,5 @@ nginx:1.27.3-alpine-perl
 bellsoft/liberica-openjdk-alpine:8u202-x86_64
 bellsoft/liberica-openjdk-alpine:17.0.13-12
 xubiaolin/zerotier-planet:latest
+keynetworks/ztncui:latest
+
